@@ -1,0 +1,61 @@
+body{
+color:#ebdd24 ;
+background-color:#062c7c63 ;
+margin: 0px;
+margin-bottom: 100px;
+}
+
+header{
+    border-bottom: solid 2px #a58e63 ;
+    margin: 20px;
+    font-size: 32px;
+    color: black;
+}
+
+
+section{
+     
+padding-bottom: 80px;
+padding-top: 80px;
+background: gray;
+display: flex;
+justify-content: center;
+}
+
+
+h1{
+color:#c6a974 ;
+font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.categoria{
+
+padding-left: 20px;
+padding-right: 20px;
+
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+img{
+
+    height: 200px;
+}
+
+
+
+.chamada-texto{
+    margin-right: 1%;
+    text-align: center;
+    padding: 20px;
+    background-color: #0c0c0c;
+    color: #c6a974;
+}
